@@ -68,5 +68,8 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_groups"></a> [groups](#output\_groups) | All attributes of the newly created AWS SSO groups in the identity store. |
+| <a name="output_users"></a> [users](#output\_users) | All attributes of the newly created AWS SSO users in the identity store. |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
